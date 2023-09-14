@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kubesoft SAS.<br>🌱 I’m currently learning Go, Nest and React.<br>💬 Ask me about Node.js with Express, Angular and Firebase.<br>⚡ Fun fact, I like play video games , share my knowledge and I love share time with my family. 
+🔭 I’m currently working.<br>🌱 I’m currently learning Go, Nest and React.<br>💬 Ask me about Node.js with Express, Angular and Firebase.<br>⚡ Fun fact, I like play video games , share my knowledge and I love share time with my family. 
 
 
 ## 🌐 Socials:
